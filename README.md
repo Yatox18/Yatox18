@@ -4,7 +4,7 @@
 - 💻 I’m currently working on FiveM <img src="https://img.icons8.com/color/18/000000/fivem.png"/>
 
 ### My discord
-f392
+<i class="fa fa-discord" aria-hidden="true"></i>
 Yatox#3203
 <br />
 
