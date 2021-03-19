@@ -3,6 +3,11 @@
 - 💫 I’m 16 yo
 - 💻 I’m currently working on FiveM
 
+### My discord
+
+[<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+
+
 ### My Stats !
 
 
