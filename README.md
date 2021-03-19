@@ -5,7 +5,7 @@
 
 ### My discord
 
-<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+<i class="fab fa-discord"></i>
 Yatox#3203
 <br />
 
