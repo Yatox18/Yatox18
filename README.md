@@ -4,7 +4,7 @@
 - 💻 I’m currently working on FiveM <img src="https://img.icons8.com/color/18/000000/fivem.png"/>
 
 ### My discord
-<img src="https://img.icons8.com/nolan/16/discord-new-logo.png"/>Yatox#3203
+<img src="https://img.icons8.com/nolan/45/discord-new-logo.png"/>Yatox#3203
 <br />
 
 ### My Stats !
