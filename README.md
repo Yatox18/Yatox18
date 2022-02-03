@@ -3,9 +3,6 @@
 - 💫 I’m 17 yo
 - 💻 I’m currently working on FiveM <img src="https://img.icons8.com/color/18/000000/fivem.png"/>
 
-### My discord
-<img src="https://img.icons8.com/fluent/20/000000/discord-new-logo.png"/>   Yatox#8403
-
 ---
 
 ### 📊 GitHub Stats
