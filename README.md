@@ -2,7 +2,7 @@
 
 - 💫 I’m 17 yo
 - ⛩  I often use lua, I also learn C#
-- 💻 I’m currently working on FiveM Project <img style="margin-top: 5px;" src="https://img.icons8.com/color/18/000000/fivem.png"/>
+- 💻 I’m currently working on FiveM Project <img style="margin-top: 25px;" src="https://img.icons8.com/color/18/000000/fivem.png"/>
 
 ---
 
