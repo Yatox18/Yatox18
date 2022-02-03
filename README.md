@@ -6,10 +6,11 @@
 ### My discord
 <img src="https://img.icons8.com/fluent/20/000000/discord-new-logo.png"/>   Yatox#8403
 ---
-### My Stats !
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yatox18&theme=algolia&show_icons=true)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yatox18&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 GitHub Stats
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Yatox18_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yatox18=compact&theme=dark&langs_count=10" />
+</div>
 ---
 ### Development Tools
 <div align="left">
