@@ -1,7 +1,8 @@
 ### Hi there, I'm Yatox 👋
 
 - 💫 I’m 17 yo
-- 💻 I’m currently working on FiveM <img src="https://img.icons8.com/color/18/000000/fivem.png"/>
+- 👨🏽‍💻
+- 💻 I’m currently working on FiveM Project<img src="https://img.icons8.com/color/18/000000/fivem.png"/>
 
 ---
 
