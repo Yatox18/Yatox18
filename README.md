@@ -16,7 +16,7 @@
 ### 🛠 Most used languages
 <div align="left">
     <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain-wordmark.svg" alt="lua" />
-    <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c#/c#-original.svg" alt="c#" />
+    <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" />
 </div>
 
 ### Development Tools
