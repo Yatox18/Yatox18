@@ -13,7 +13,7 @@
 </div>
 
 ---
-### 🛠 Most used languages
+### 👾 Most used languages
 <div align="left">
     <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain-wordmark.svg" alt="lua" />
     &nbsp;
@@ -24,7 +24,7 @@
     <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5" />
 </div>
 
-### Development Tools
+### 🛠 Development Tools
 <div align="left">
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" />
   &nbsp;
