@@ -31,6 +31,6 @@
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" />
 </div>
 
-### My discord <span class="iconify" data-icon="akar-icons:discord-fill"></span>
+### My discord
 <img src="https://discord.c99.nl/widget/theme-1/490441393559437317.png" alt="Discord"/>
 
