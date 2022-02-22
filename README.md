@@ -32,5 +32,5 @@
 </div>
 
 ### My discord
-<a href="https://discords.com/bio/p/Yatox" target="blank"><img align="center" src="https://discord.c99.nl/widget/theme-1/490441393559437317.png" alt="Discord" /></a>
+<img src="https://discord.c99.nl/widget/theme-1/490441393559437317.png" alt="Discord"/>
 
