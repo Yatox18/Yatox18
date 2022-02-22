@@ -31,6 +31,6 @@
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" />
 </div>
 
-### My discord <img src="https://img.icons8.com/ios/48/000000/discord-logo--v2.png"/>
+### My discord ![image](https://user-images.githubusercontent.com/74329795/155140203-0c38653f-8ddb-47f4-a9dc-b132848dd1c2.png)
 <img src="https://discord.c99.nl/widget/theme-1/490441393559437317.png" alt="Discord"/> 
 
