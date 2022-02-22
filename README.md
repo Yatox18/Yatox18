@@ -30,3 +30,8 @@
   &nbsp;
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" />
 </div>
+
+### My discord
+<p align="center">
+<a href="https://discords.com/bio/p/Yatox" target="blank"><img align="center" src="https://discord.c99.nl/widget/theme-1/470972839302791198.png" alt="Discord" /></a>
+</p>
