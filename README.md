@@ -18,6 +18,11 @@ I believe that the journey of learning never ends, and I'm always eager to take 
 
 ---
 
+### 💻 Languages I have used
+![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
+![LUA](https://img.shields.io/badge/-LUA-333333?style=flat&logo=lua)
+![JavaScript](https://img.shields.io/badge/-JS-333333?style=flat&logo=JavaScript)
+
 ### 📊 GitHub Stats
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Yatox18&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
