@@ -16,6 +16,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-050F2C?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-050F2C?style=for-the-badge&logo=typescript)
 ![NodeJS](https://img.shields.io/badge/Node.js-050F2C?style=for-the-badge&logo=node.js)
+![Playwright](https://img.shields.io/badge/Playwright-050F2C?style=for-the-badge&logo=playwright)
+![Cucumber](https://img.shields.io/badge/Cucumber-050F2C?style=for-the-badge&logo=cucumber)
 ![HTML](https://img.shields.io/badge/HTML5-050F2C?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-050F2C?style=for-the-badge&logo=css3&logoColor=214CE5)
 ![C#](https://img.shields.io/badge/C%23-050F2C?style=for-the-badge&logo=csharp&logoColor=9B5096)
