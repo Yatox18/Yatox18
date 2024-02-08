@@ -36,13 +36,6 @@
 ![Figma](https://img.shields.io/badge/Figma-050F2C?style=for-the-badge&logo=figma)
 ![PS](https://img.shields.io/badge/Adobe%20Photoshop-050F2C?style=for-the-badge&logo=Adobe%20Photoshop)
 
-### 📊 GitHub Stats
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Yatox18&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yatox18&layout=compact&theme=algolia&langs_count=10" />
-</div>
-
-
 ### 🎧 Now Playing
 <div align="center">
   <a href="https://open.spotify.com/user/31nwumcxrzerbcv2p3q47w64zzpu?si=431057627dba412d">
