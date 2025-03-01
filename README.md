@@ -56,4 +56,4 @@
 
 [![Youtube](https://img.shields.io/badge/YouTube-050F2C?style=for-the-badge&logo=youtube&logoColor=FF0200)](https://www.youtube.com/channel/UC1BudIiEP6A6qz-M3xxrggw)
 [![Twitch](https://img.shields.io/badge/Twitch-050F2C?style=for-the-badge&logo=twitch)](https://www.twitch.tv/yatox18)
-[![Discord](https://img.shields.io/badge/Discord_:_yatox18-050F2C?style=for-the-badge&logo=discord)
+![Discord](https://img.shields.io/badge/Discord_:_yatox18-050F2C?style=for-the-badge&logo=discord)
