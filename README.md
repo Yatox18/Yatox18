@@ -4,11 +4,7 @@
 
 ---
 
-### 👨🏼‍💻 About Me
-
-💻 Passionate developer exploring the ever-evolving world of technology. Constantly excited to venture into new horizons and learn innovative tools and frameworks.
-
-🚀 Primarily a web developer with a love for crafting intuitive and elegant front-end experiences, but I’m also working on leveling up my back-end skills every day to become a versatile full-stack developer.
+I write bugs, sometimes even features.
 
 ### 💻 Tech Stack
 
@@ -41,16 +37,6 @@
 ![Git](https://img.shields.io/badge/GIT-050F2C?style=for-the-badge&logo=git)
 ![Figma](https://custom-icon-badges.demolab.com/badge/figma-050F2C?style=for-the-badge&logo=figma-color)
 ![Photoshop](https://custom-icon-badges.demolab.com/badge/photoshop-050F2C?style=for-the-badge&logo=photoshop)
-
-### 🎧 Now Playing
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31nwumcxrzerbcv2p3q47w64zzpu?si=431057627dba412d">
-    <img height="160em" src="https://novatorem-yatoxs-projects.vercel.app/api/spotify/?background_color=050F2C&border_color=ffffff" alt="Spotify">
-  </a>
-</div>
-
----
 
 ### 🌐 Social Links
 
